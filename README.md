@@ -61,8 +61,7 @@ industry.
 - ⚙️ **Arduino**: Developing small hardware projects with integrated
   programming.
 - 🌐 **SEO**: Search engine optimization, improving visibility and rankings.
-- ♿ **Accessibility WCAG**: Making websites accessible to all users by following
-  WCAG standards.
+- ♿ **Accessibility WCAG**:  The web is for everyone! By following WCAG standards, we make sure no one is left out. I’m continuously learning about this important topic, which is often, unfortunately, underestimated.
 - 🤝 **Teamwork**: Developed through my experience as a printing technician,
   where I worked collaboratively to meet client needs and ensure quality
   results.
