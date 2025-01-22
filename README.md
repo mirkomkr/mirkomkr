@@ -12,9 +12,7 @@ know, by following official channels and reading the latest documentation. I am
 committed to continuously improving my skills and adapting to new trends in the
 industry.
 
----
-
-## 🌱 **Next Goals**
+## 🌱 **Next Learning Goals**
 
 - **MERN Stack**: MongoDB, Express, React, Node.js
 - Exploring advanced web development to create dynamic and efficient
