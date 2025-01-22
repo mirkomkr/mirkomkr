@@ -125,7 +125,7 @@ industry.
 ## 📫 **Contact Me**
 
 - [LinkedIn](https://www.linkedin.com/in/mirko-passeri/)  
-  - [X](https://x.com/mirkomkr)
+- [X](https://x.com/mirkomkr)
 - [CodePen](https://codepen.io/mirkomkr)
 - [Email](#)
 
