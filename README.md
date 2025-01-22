@@ -5,18 +5,20 @@ development and technology.
 
 ---
 
-## 🌱 **Currently Learning**
-
-- **MERN Stack**: MongoDB, Express, React, Node.js
-- Exploring advanced web development to create dynamic and efficient
-  applications.
-
 ## 📚 **Continuous Learning**
 
 Always staying up to date with the latest technologies, even those I already
 know, by following official channels and reading the latest documentation. I am
 committed to continuously improving my skills and adapting to new trends in the
 industry.
+
+---
+
+## 🌱 **Next Goals**
+
+- **MERN Stack**: MongoDB, Express, React, Node.js
+- Exploring advanced web development to create dynamic and efficient
+  applications.
 
 ---
 
