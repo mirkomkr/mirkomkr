@@ -8,9 +8,7 @@ development and technology.
 ## 📚 **Continuous Learning**
 
 Always staying up to date with the latest technologies, even those I already
-know, by following official channels and reading the latest documentation. I am
-committed to continuously improving my skills and adapting to new trends in the
-industry.
+know, by following official channels and reading the latest documentation. I’m always working to improve my skills and keep up with new trends in the industry.
 
 ## 🌱 **Next Learning Goals**
 
