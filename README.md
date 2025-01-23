@@ -56,10 +56,10 @@ know, by following official channels and reading the latest documentation. I’m
 
 ## 🌟 **Soft Skills**
 
+- ♿ **Accessibility WCAG**: The web is for everyone! By following WCAG standards, we ensure no one is left out. I consistently follow these guidelines to create a better and more inclusive accessibility experience.
+- 🌐 **SEO**: Search engine optimization, improving visibility and rankings.
 - ⚙️ **Arduino**: Developing small hardware projects with integrated
   programming.
-- 🌐 **SEO**: Search engine optimization, improving visibility and rankings.
-- ♿ **Accessibility WCAG**: The web is for everyone! By following WCAG standards, we ensure no one is left out. I consistently follow these guidelines to create a better and more inclusive accessibility experience..
 - 🤝 **Teamwork**: Developed through my experience as a printing technician,
   where I worked collaboratively to meet client needs and ensure quality
   results.
@@ -75,31 +75,31 @@ know, by following official channels and reading the latest documentation. I’m
 
 ### 1. **Responsive Landing Page**
 
-- 🔗 [View Repository](#)
-- 🌟 **Technologies:** HTML, CSS, JavaScript, Tailwind
+- 🔗 [Soon](#)
+- 🌟 **Technologies:** HTML, CSS, JavaScript, Bootstrap
 - 📜 A fully responsive landing page with smooth animations.
 
 ### 2. **To-Do List**
 
 - 🔗 [View Repository](https://github.com/mirkomkr/todo-app)
-- 🌟 **Technologies:** JavaScript, CSS
+- 🌟 **Technologies:** JavaScript, CSS, HTML 
 - 📜 A simple app to manage your daily tasks.
 
 ### 3. **Weather Application**
 
-- 🔗 [View Repository](#)
-- 🌟 **Technologies:** React
+- 🔗 [Soon](#)
+- 🌟 **Technologies:** React, Tailwind 
 - 📜 Displays real-time weather for a selected location.
 
 ### 4. **E-commerce Cart**
 
-- 🔗 [View Repository](#)
-- 🌟 **Technologies:** React
+- 🔗 [Soon](#)
+- 🌟 **Technologies:** React, Tailwind 
 - 📜 Simulates an e-commerce cart, with context and state management.
 
 ### 5. **Browser Extension**
 
-- 🔗 [View Repository](#)
+- 🔗 [Soon](#)
 - 🌟 **Technologies:** JavaScript
 - 📜 A browser extension to quickly scroll to the top of the page with a
   customizable arrow.
