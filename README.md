@@ -57,6 +57,7 @@ know, by following official channels and reading the latest documentation. I’m
 ## 🌟 **Soft Skills**
 
 - ♿ **Accessibility WCAG**: The web is for everyone! By following WCAG standards, we ensure no one is left out. I consistently follow these guidelines to create a better and more inclusive accessibility experience.
+I’m working on growing this skill into a hard skill because accessibility should never be an afterthought.
 - 🌐 **SEO**: Search engine optimization, improving visibility and rankings.
 - ⚙️ **Arduino**: Developing small hardware projects with integrated
   programming.
