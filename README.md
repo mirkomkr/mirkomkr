@@ -89,40 +89,41 @@ Miglioro continuamente le mie competenze costruendo progetti pratici come To-Do 
 
 ---
 
-## 🌟 Soft Skills
+## 🌟 **Soft Skills**
 
-## ♿ Accessibilità WCAG
+- ♿ **Accessibilità WCAG**:
 Il web è per tutti! Seguendo gli standard WCAG, mi assicuro che tutti gli utenti, indipendentemente dalle loro abilità, possano accedere e interagire con i contenuti web. Applico queste linee guida in ogni progetto per creare esperienze digitali inclusive. Mentre continuo a perfezionare questa abilità, il mio obiettivo è integrare la considerazione dell'accessibilità senza soluzione di continuità nel mio flusso di lavoro di sviluppo, assicurandomi che l'accessibilità non sia un pensiero successivo, ma una parte fondamentale di ogni design e implementazione.
 
-## 🎨 Design UX/UI
+- 🎨 **Design UX/UI**:
 Progettare interfacce intuitive e facili da usare che pongano l'usabilità e l'accessibilità al centro del mio approccio. Mi concentro sulla creazione di design che siano non solo visivamente accattivanti, ma anche funzionali, garantendo che gli utenti possano navigare facilmente su siti web o applicazioni. Tengo conto delle esigenze dell'utente in ogni fase del processo di progettazione, mirando a fornire un'esperienza senza soluzione di continuità dall'inizio alla fine. Il mio approccio al design fonde estetica creativa e principi incentrati sull'utente, assicurandomi che ogni decisione progettuale contribuisca a un'esperienza utente positiva.
 
-## 🌐 SEO (Ottimizzazione per i Motori di Ricerca)
+- 🌐 **SEO (Ottimizzazione per i Motori di Ricerca)**:
 Mi concentro sull'ottimizzazione dei siti web per migliorare la visibilità sui motori di ricerca, il che porta a più traffico e a un miglior posizionamento. Dall'uso corretto di parole chiave e metadati all'implementazione delle migliori pratiche di SEO on-page, comprendo come la SEO influenzi le prestazioni di un sito. Ottimizzo anche i contenuti per gli utenti mobili, essenziale per un buon posizionamento sui motori di ricerca. Il mio obiettivo è progettare soluzioni web che siano facilmente scopribili e che offrano contenuti di valore all'utente.
 
-## ⚙️ Arduino & IoT
+- ⚙️ **Arduino & IoT**:
 Ho una passione per lo sviluppo di piccoli progetti hardware con Arduino, integrando la programmazione con dispositivi fisici per creare progetti pratici e interattivi. Questa esperienza ha ampliato le mie capacità di problem-solving, permettendomi di affrontare lo sviluppo da una prospettiva sia hardware che software. L'esperienza pratica con sensori, attuatori e microcontrollori mi aiuta a rimanere innovativo e creativo, applicando la tecnologia in modi tangibili.
 
-## 🤝 Lavoro di Squadra & Collaborazione
+- 🤝 **Lavoro di Squadra & Collaborazione**:
 Sviluppato attraverso la mia esperienza come tecnico di stampa, ho imparato a lavorare in modo collaborativo con team multifunzionali per soddisfare le esigenze dei clienti e fornire risultati di alta qualità in tempo. Eccello nei contesti di squadra, dove la comunicazione aperta e il supporto reciproco sono fondamentali. Il mio approccio al lavoro di squadra si basa sull'empatia e sull'adattabilità, assicurandomi di poter lavorare efficacemente con team diversi e contribuire al successo collettivo.
 
-## 🧘 Concentrazione sotto Pressione
+- 🧘 **Concentrazione sotto Pressione**:
 La mia esperienza nel settore della stampa mi ha insegnato l'importanza di mantenere la calma e la concentrazione sotto pressione, specialmente quando si gestiscono scadenze ravvicinate. Ho sviluppato la capacità di gestire più compiti contemporaneamente mantenendo un elevato standard di qualità. Questa esperienza mi ha aiutato a prosperare in ambienti frenetici, dove rispettare le scadenze e mantenere l'attenzione ai dettagli sono fondamentali.
 
-## 🕒 Gestione del Tempo & Prioritizzazione
+- 🕒 **Gestione del Tempo & Prioritizzazione**:
 Ho perfezionato la capacità di dare priorità ai compiti in base all'urgenza e all'importanza. Sia che si tratti di gestire più progetti o di rispettare scadenze ravvicinate, posso allocare efficacemente il tempo e le risorse per garantire una consegna tempestiva. La mia esperienza in ambienti ad alta pressione mi ha aiutato a sviluppare un forte senso di urgenza e responsabilità, permettendomi di gestire richieste dell'ultimo minuto e adattarmi rapidamente ai cambiamenti di priorità.
 
-## 💬 Comunicazione Efficace
+- 💬 **Comunicazione Efficace**:
 Una comunicazione chiara e concisa è essenziale sia nello sviluppo che nella collaborazione. Eccello nel trasmettere concetti tecnici complessi in modo comprensibile sia per i tecnici che per i non tecnici. Questa abilità mi ha aiutato a facilitare il progresso del progetto, gestire le aspettative dei clienti e garantire che tutti i membri del team siano sulla stessa lunghezza d'onda.
 
-## 🌱 Apprendimento Continuo & Adattabilità
+- 🌱 **Apprendimento Continuo & Adattabilità**:
 Sono sempre aperto a nuove idee e desideroso di imparare. Che si tratti di padroneggiare un nuovo linguaggio di programmazione o di restare aggiornato con le tendenze del settore, credo nel miglioramento continuo. Questa spinta per la crescita personale e professionale mi aiuta ad adattarmi alle tecnologie in evoluzione e alle esigenze dei progetti, assicurandomi di rimanere una risorsa in qualsiasi ambiente di sviluppo.
 
 ---
 
-# 💻 Progetti
+## 💻 **Progetti**
 
-## 1. Responsive Landing Page
+### 1. **Responsive Landing Page**
+
 🔗 Presto  
 🌟 **Tecnologie**: HTML, CSS, JavaScript, Bootstrap  
 📜 Una landing page completamente responsiva con animazioni fluide.  
@@ -131,8 +132,9 @@ Sono sempre aperto a nuove idee e desideroso di imparare. Che si tratti di padro
 - **Animazione**: Integrato transizioni fluide per migliorare l'interazione con l'utente e l'esperienza dell'utente (UX).  
 - **Compatibilità tra Browser**: Garantita la compatibilità su diversi browser per un'esperienza utente senza interruzioni.
 
-## 2. To-Do List
-🔗 Visualizza Repository  
+### 2. **To-Do List**
+
+🔗 [Visualizza Repository](https://github.com/mirkomkr/todo-app)  
 🌟 **Tecnologie**: JavaScript, CSS, HTML  
 📜 Un'app semplice per gestire le attività quotidiane.  
 **Competenze Dimostrate**:
@@ -140,7 +142,8 @@ Sono sempre aperto a nuove idee e desideroso di imparare. Che si tratti di padro
 - **Gestione dello Stato**: Gestiti i task usando array e memorizzazione locale per salvare i dati tra i ricaricamenti della pagina.  
 - **Design UI/UX**: Concentrato sulla creazione di un'interfaccia intuitiva con funzionalità chiare di gestione dei task.
 
-## 3. Applicazione Meteo
+### 3. **Applicazione Meteo**
+
 🔗 Presto  
 🌟 **Tecnologie**: React, Tailwind  
 📜 Visualizza le previsioni meteo in tempo reale per una località selezionata.  
@@ -149,7 +152,8 @@ Sono sempre aperto a nuove idee e desideroso di imparare. Che si tratti di padro
 - **Tailwind CSS**: Utilizzato Tailwind per progettare un'interfaccia utente pulita e minimalista, responsiva e accessibile.  
 - **Integrazione API**: Collegato un'API esterna meteo per recuperare e visualizzare i dati in tempo reale, dimostrando l'uso delle API e la gestione asincrona dei dati.
 
-## 4. Carrello acquisti
+### 4. **Carrello acquisti**
+
 🔗 Presto  
 🌟 **Tecnologie**: React, Tailwind  
 📜 Simula un carrello e-commerce, con gestione del contesto e stato.  
@@ -158,7 +162,8 @@ Sono sempre aperto a nuove idee e desideroso di imparare. Che si tratti di padro
 - **Architettura Basata su Componenti**: Sviluppati componenti riutilizzabili per gli articoli del carrello, i pulsanti di checkout e il riepilogo del carrello.  
 - **Design Responsivo**: Progettato un'interfaccia utente semplice da usare con Tailwind, che si adatta a tutti i dispositivi, garantendo un'ottima esperienza mobile.
 
-## 5. Estensione Browser
+### 5. **Estensione Browser**
+
 🔗 Presto  
 🌟 **Tecnologie**: JavaScript  
 📜 Un'estensione del browser per scorrere rapidamente fino alla parte superiore della pagina con una freccia personalizzabile.  
@@ -169,7 +174,7 @@ Sono sempre aperto a nuove idee e desideroso di imparare. Che si tratti di padro
 
 ---
 
-# 💡 Interessi
+## 💡 **Interessi**
 
 - 👨‍👩‍👦 Trascorrere del tempo di qualità con la mia famiglia.  
 - 👨‍👦💡 Costruire progetti educativi con Arduino e Scratch con mio figlio mi aiuta a rimanere creativo e innovativo nelle soluzioni di coding.  
