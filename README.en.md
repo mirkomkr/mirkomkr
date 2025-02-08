@@ -1,4 +1,4 @@
-For the Italian version of this README, please refer to [README in Italiano](./README.it.md).
+For the Italian version of this README, please refer to [README in Italiano](./README.md).
 
 # 👋 Hello World! I'm Mirko!
 
