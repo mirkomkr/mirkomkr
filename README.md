@@ -25,7 +25,7 @@ Lavoro costantemente per migliorare le mie competenze attraverso progetti pratic
 ## 🌱 **Prossimi Obiettivi di Apprendimento**
 
 - **MERN Stack**: MongoDB, Express, React, Node.js
-- Esplorare lo sviluppo web avanzato per creare applicazioni dinamiche, scalabili ed efficienti, con l'intento di migliorare continuamente le mie competenze e contribuire a progetti innovativi.
+- Approfondire lo sviluppo web avanzato per creare applicazioni dinamiche, scalabili ed efficienti, ampliando le mie competenze con un approccio strutturato.
 
 ---
 
