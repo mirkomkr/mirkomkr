@@ -2,25 +2,25 @@ For the English version of this README, please refer to [README in English](./RE
 
 # 👋 Ciao Mondo! Sono Mirko!
 
-🎯 **Sviluppatore Front-End** | In continuo apprendimento per migliorare le mie competenze nello sviluppo web e nella tecnologia.
+🎯 **Sviluppatore Front-End** | In continuo apprendimento per migliorare le mie competenze nello sviluppo web.
 
 ---
 
 ## 📖 **Chi Sono**
 
-Dalla mia esperienza nell'industria della stampa, ho sviluppato una forte attenzione ai dettagli e ottime capacità di gestione del tempo, che ora sto applicando per costruire soluzioni web ben strutturate e di qualità, con un continuo impegno nel miglioramento. Questo background mi ha permesso di mantenere uno standard elevato di lavoro anche in ambienti frenetici e con scadenze imminenti, competenze che ora applico nel mio percorso come sviluppatore Front-End. Sempre appassionato di tecnologia e del web, ho deciso di intraprendere una nuova carriera in questo campo. Ho intrapreso un percorso di apprendimento autodidatta, strutturando il mio studio attraverso risorse mirate e progetti pratici, che mi hanno portato a ottenere una certificazione professionale e a costruire una solida base nella programmazione web. Sono pronto a mettere in pratica le mie competenze in ambienti dinamici e innovativi, con l'obiettivo di crescere ulteriormente, imparare e contribuire al successo del team con il mio impegno e la mia dedizione.
+Grazie alla mia precedente esperienza nell'industria della stampa, ho sviluppato una forte attenzione ai dettagli e ottime capacità di gestione del tempo, mi ha permesso di mantenere uno standard elevato di lavoro anche in ambienti frenetici e con scadenze imminenti, competenze che ora applico nel mio percorso come sviluppatore Front-End. Sempre appassionato di tecnologia e del web, ho deciso di intraprendere una nuova carriera in questo campo. Ho intrapreso un percorso di apprendimento autodidatta, strutturando il mio studio attraverso risorse mirate e progetti pratici, che mi hanno portato a ottenere una certificazione professionale e a costruire una solida base nella programmazione web. Sono pronto a mettere in pratica le mie competenze in ambienti dinamici e innovativi, con l'obiettivo di crescere ulteriormente, imparare e contribuire al successo del mio lavoro con il mio impegno e la mia dedizione.
 
 ---
 
 ## 🎯 **Obiettivo Professionale**
 
-Il mio obiettivo è crescere continuamente come Sviluppatore Front-End, applicando le competenze che ho acquisito per creare soluzioni web funzionali e user-friendly. Mi propongo di affrontare nuove sfide, imparare costantemente e contribuire con dedizione a progetti che migliorano l'esperienza dell'utente, lavorando in un team dove posso mettere a frutto le mie abilità per costruire applicazioni web innovative e incentrate sull'utente.
+Il mio obiettivo è crescere continuamente come Sviluppatore Front-End, applicando le competenze che ho acquisito per creare soluzioni web funzionali e user-friendly. Mi propongo di affrontare nuove sfide, imparare costantemente e contribuire con dedizione a progetti che migliorano l'esperienza dell'utente.
 
 ---
 
 ## 📚 **Apprendimento Continuo**
 
-Miglioro continuamente le mie competenze costruendo progetti pratici come To-Do List, Applicazione Meteo e Carrello acquisti. Attualmente sto esplorando concetti avanzati di JavaScript e approfondendo il MERN stack.
+Miglioro continuamente le mie competenze sviluppando progetti pratici come To-Do List, App Meteo e Carrello e-commerce, oltre a interfacce utente responsive e user-friendly. Ogni progetto mi permette di approfondire HTML, CSS, JavaScript, React e le best practice di sviluppo. Attualmente sto esplorando concetti avanzati di JavaScript con uno sguardo verso il MERN stack
 
 ## 🌱 **Prossimi Obiettivi di Apprendimento**
 
