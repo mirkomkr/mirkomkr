@@ -20,7 +20,7 @@ Il mio obiettivo è crescere costantemente come Sviluppatore Front-End, mettendo
 
 ## 📚 **Apprendimento Continuo**
 
-Lavoro costantemente per migliorare le mie competenze attraverso progetti pratici come To-Do List, App Meteo e Carrello e-commerce, nonché la creazione di interfacce utente responsive e orientate all'utente. Ogni progetto mi permette di approfondire HTML, CSS, JavaScript, React e le best practice di sviluppo. Attualmente, mi sto concentrando sull'esplorazione di concetti avanzati di JavaScript, con l'intenzione di ampliare le mie competenze anche nel MERN stack.
+Lavoro costantemente per migliorare le mie competenze attraverso progetti pratici come To-Do List, App Meteo e Carrello e-commerce, nonché la creazione di interfacce utente responsive e orientate all'utente. Ogni progetto mi permette di approfondire HTML, CSS, JavaScript, React e le best practice di sviluppo. Attualmente, mi sto concentrando sull'esplorazione di concetti avanzati di JavaScript, con l'intenzione di ampliare le mie competenze.
 
 ## 🌱 **Prossimi Obiettivi di Apprendimento**
 
