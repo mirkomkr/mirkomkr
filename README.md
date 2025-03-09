@@ -31,26 +31,6 @@ Lavoro costantemente per migliorare le mie competenze attraverso progetti pratic
 
 ## 🎓 **Certificazioni**  
 
-🔹 **Certificazione Coursera** – [PROSSIMAMENTE](#)  
-[![Coursera](https://img.shields.io/badge/Coursera-Certification-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](#)  
-
-🔹 **Responsive Web Design** – [freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/responsive-web-design)  
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Responsive_Web_Design-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/mirkomkr/responsive-web-design)  
-
-🔹 **JavaScript Algorithms and Data Structures** – [freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/javascript-algorithms-and-data-structures-v8)  
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-JavaScript_Algorithms-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/mirkomkr/javascript-algorithms-and-data-structures-v8)  
-
-🔹 **Modern JavaScript From The Beginning** – [Udemy](https://www.udemy.com/certificate/UC-a643c20f-bdf9-456b-8f71-6dec2121a448/)  
-[![Udemy](https://img.shields.io/badge/Udemy-Modern_JavaScript_From_The_Beginning-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-a643c20f-bdf9-456b-8f71-6dec2121a448/)  
-
-🔹 **Corso JavaScript ES6 Avanzato (Italiano)** – [PROSSIMAMENTE](#)  
-[![Udemy](https://img.shields.io/badge/Udemy-JavaScript_ES6_Avanzato-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](#)  
-
-🔹 **React & Redux per Principianti (Italiano)** – [PROSSIMAMENTE](#)  
-[![Udemy](https://img.shields.io/badge/Udemy-React_&_Redux_Per_Principianti-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](#)  
-
-🔹 **Altri Arrivano Presto...**  
-
 ---
 
 ## 🛠️ **Competenze Tecniche**
@@ -75,7 +55,8 @@ Lavoro costantemente per migliorare le mie competenze attraverso progetti pratic
 ### **Strumenti di Design**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white "Figma")  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white "Adobe Photoshop")
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white "Adobe Photoshop")  
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white "Adobe Illustrator")
 
 ### **Strumenti di Sviluppo**
 
