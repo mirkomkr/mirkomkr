@@ -186,3 +186,5 @@ Attualmente sono disponibile per opportunità come sviluppatore front-end. Senti
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mirkomkr)
 - [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mirkomkr)
 - [![Email](https://img.shields.io/badge/Email-7F7F7F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirkopasseri83@gmail.com)
+- [![Figma Portfolio](https://img.shields.io/badge/Figma%20Portfolio-7F7F7F?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/YOmJbScwFqpC5ns8DMpfmV/Little-Lemon-Coursera-Assignment---UX-UI-Portfolio-%E2%80%93-Meta-Certificate?t=6QP4voAAvWIcoBSx-1)
+
