@@ -1,3 +1,8 @@
+
+*For the English version of this README, please refer to [README in English](./README.en.md).*
+
+---
+
 # 👋 Ciao, sono Mirko!
 
 🎯 **Front-End Developer Junior** | Appassionato di sviluppo web e in costante crescita professionale.
@@ -138,7 +143,3 @@ Contattami su:
 - [X (Twitter)](https://x.com/mirkomkr)  
 - [CodePen](https://codepen.io/mirkomkr)  
 - [Email](mailto:mirkopasseri83@gmail.com)
-
----
-
-*For the English version of this README, please refer to [README in English](./README.en.md).*
