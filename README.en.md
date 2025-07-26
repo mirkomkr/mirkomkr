@@ -1,3 +1,7 @@
+*For the Italian version of this README, please see [README in Italian](./README.md).*
+
+---
+
 # 👋 Hi, I'm Mirko!
 
 🎯 **Junior Front-End Developer** | Passionate about web development and continuous learning.
@@ -137,7 +141,3 @@ I am open to opportunities as a Front-End Developer. Reach out to me on:
 - [X (Twitter)](https://x.com/mirkomkr)  
 - [CodePen](https://codepen.io/mirkomkr)  
 - [Email](mailto:mirkopasseri83@gmail.com)
-
----
-
-*For the Italian version of this README, please see [README in Italian](./README.md).*
