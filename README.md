@@ -111,12 +111,13 @@ Attraverso progetti pratici (To-Do List, App Meteo, Carrello e-commerce) approfo
 
 ---
 
-## 💡 Interessi personali
+## 💡 Interessi Personali
 
-- Famiglia e progetti educativi con Arduino e Scratch  
+- Trascorrere del tempo di qualità con la mia famiglia  
+- Progetti educativi con Arduino e Scratch
 - Videogiochi e attività creative con mio figlio  
-- Viaggi e scoperta di nuove culture  
-- Innovazione tecnologica e aggiornamento continuo  
+- Viaggiare e scoprire nuove culture  
+- Innovazione tecnologica e miglioramento personale continuo
 
 ---
 
