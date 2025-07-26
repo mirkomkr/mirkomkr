@@ -113,10 +113,11 @@ Through hands-on projects (To-Do List, Weather App, E-commerce Cart) I deepen my
 
 ## 💡 Personal Interests
 
+- Spending quality time with my family  
 - Family and educational projects with Arduino and Scratch  
 - Video games and creative activities with my son  
 - Traveling and discovering new cultures  
-- Technology innovation and continuous self-improvement  
+- Technology innovation and continuous self-improvement
 
 ---
 
