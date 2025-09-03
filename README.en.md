@@ -33,7 +33,7 @@ Through hands-on projects (To-Do List, Weather App, E-commerce Cart) I deepen my
 - [Meta Front-End Developer – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/N9ABPGLC812J)  
 - [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/responsive-web-design)  
 - [JavaScript Algorithms and Data Structures (ES6+) – freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/javascript-algorithms-and-data-structures-v8)  
-- [Build Responsive Real-World Websites with HTML and CSS – Udemy](https://www.udemy.com/certificate/UC-a643c20f-bdf9-456b-8f71-6dec2121a448/)  
+- [Javascript Moderno: La guida pratica da zero a esperti – Udemy](https://www.udemy.com/certificate/UC-a643c20f-bdf9-456b-8f71-6dec2121a448/) 
 
 ---
 
