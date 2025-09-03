@@ -96,15 +96,15 @@ Attraverso progetti pratici (To-Do List, App Meteo, Carrello e-commerce) approfo
 - Mobile-first design con Bootstrap e CSS personalizzato  
 - Animazioni fluide e ottimizzazione cross-browser
 
-### To-Do List  
+### JavaScript Todo List  
 [Repository](https://github.com/mirkomkr/todo-app)  
 - Fondamenti di JavaScript, manipolazione DOM e gestione eventi  
 - Gestione stato e memorizzazione locale
 
-### Applicazione Meteo  
-*(In arrivo)*  
-- React funzionale e interazione con API esterne  
-- UI minimalista e responsive con Tailwind CSS
+### React Todo App
+[Repository](https://github.com/mirkomkr/React-Todo-App)
+- React, React Hooks (`useState`, `useReducer`, `useEffect`), Local Storage.
+- Creazione, cancellazione, modifica e persistenza dei compiti. Validazione dell'input e design completamente responsivo.
 
 ### Carrello acquisti  
 *(In arrivo)*  
