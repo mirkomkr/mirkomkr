@@ -95,15 +95,15 @@ Through hands-on projects (To-Do List, Weather App, E-commerce Cart) I deepen my
 - Mobile-first design using Bootstrap and custom CSS  
 - Smooth animations and cross-browser optimization
 
-### To-Do List  
-[Repository](https://github.com/mirkomkr/todo-app)  
-- Core JavaScript, DOM manipulation, event handling  
-- State management and local storage
+### JavaScript Todo List
+[Repository](https://github.com/mirkomkr/todo-app)
+- **Skills:** Core JavaScript fundamentals, DOM manipulation, and event handling.
+- **Features:** State management and local data storage.
 
-### Weather App  
-*(Coming soon)*  
-- Functional React app interacting with external APIs  
-- Minimalist, responsive UI with Tailwind CSS
+### React Todo App
+[Repository](https://github.com/mirkomkr/React-Todo-App)
+- **Technologies:** React, React Hooks (`useState`, `useReducer`, `useEffect`), and Local Storage.
+- **Features:** Task creation, deletion, and modification. Includes input validation, data persistence, and a fully responsive design.
 
 ### Shopping Cart  
 *(Coming soon)*  
