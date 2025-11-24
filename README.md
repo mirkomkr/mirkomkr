@@ -19,7 +19,7 @@ Sono motivato dal desiderio di crescere continuamente e di contribuire con impeg
 
 ## 🎯 Obiettivo professionale
 
-Voglio sviluppare soluzioni web accessibili, performanti e orientate all’utente, mettendo in pratica le competenze acquisite e ampliandole costantemente. Cerco un’opportunità in cui poter apprendere, collaborare efficacemente e fare la differenza nel team.
+Vorrei sviluppare soluzioni web accessibili, performanti e orientate all’utente, mettendo in pratica le competenze acquisite e ampliandole costantemente. Cerco un’opportunità in cui poter apprendere, collaborare efficacemente e fare la differenza nel team.
 
 ---
 
@@ -91,10 +91,10 @@ Attraverso progetti pratici (To-Do List, App Meteo, Carrello e-commerce) approfo
 
 ## 💻 Progetti principali
 
-### Responsive Landing Page  
-*(In arrivo)*  
-- Mobile-first design con Bootstrap e CSS personalizzato  
-- Animazioni fluide e ottimizzazione cross-browser
+### Meteo App
+[Repository](https://github.com/mirkomkr/meteo-clima-e-mare)
+- **Competenze:** JavaScript (Hooks personalizzati), Geocoding API, Gestione Asincrona (Parallelismo, Caricamento/Errore), Debounce, Caching (localStorage), Separazione Logica/UI.
+- **Funzionalità:** Ricerca ottimizzata tramite debounce (500ms), recupero dati terrestri/marini in parallelo, gestione della cache per un'efficienza delle API (dati validi per 60 minuti).
 
 ### JavaScript Todo List
 [Repository](https://github.com/mirkomkr/todo-app)
