@@ -1,145 +1,97 @@
-*For the Italian version of this README, please see [README in Italian](./README.md).*
+*Per la versione italiana di questo README, fai riferimento al [README in Italiano](./README.md).*
 
 ---
 
-# 👋 Hi, I'm Mirko!
+# Hi, I'm Mirko Passeri!
 
-🎯 **Junior Front-End Developer** | Passionate about web development and continuous learning.
+**Frontend Developer & Web Designer** | Anzio (Rome), Italy
 
----
-
-## 📖 About Me
-
-After several years working in the printing industry, I developed strong attention to detail, excellent time management skills, and resilience under pressure. These skills, combined with my passion for web technology, motivated me to pursue a structured learning path as a Front-End Developer. I completed the Meta Front-End Developer Professional Certificate on Coursera and am building a solid foundation in modern web technologies.
-
-I am driven by the desire to keep growing and contribute with commitment and enthusiasm to innovative projects in dynamic environments.
+[![Portfolio](https://img.shields.io/badge/Portfolio-mirkopasseri.it-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://www.mirkopasseri.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirko_Passeri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-passeri/)
 
 ---
 
-## 🎯 Career Objective
+## About Me & How I Work
 
-I aim to create accessible, performant, and user-centered web solutions, applying and expanding my skills constantly. I am looking for an opportunity where I can learn, collaborate effectively, and make a meaningful impact within the team.
+I build websites and digital interfaces based on a simple belief: **a well-made website must work for everyone**, regardless of the device they use or their level of technical expertise.
+
+My approach is *problem-first*: I know the fundamentals and I choose the tools based on the problem, not the other way around.
+
+After years of experience in high-pressure environments where I learned to manage stress and solve problems quickly, today I design and develop web solutions with a vertical focus on:
+
+- **Web Accessibility (WCAG)** — Inclusive development
+- **Performance & UX** — Fast, modern, and responsive interfaces
+- **Technical & Local SEO** — Data structures, Schema Markup, and search engine optimization
+
+I am accustomed to navigating official technical documentation, preferring the direct study of sources over the rote memorization of frameworks.
 
 ---
 
-## 📚 Continuous Learning
+## Certifications
 
-Through hands-on projects (To-Do List, Weather App, E-commerce Cart) I deepen my knowledge of HTML, CSS, JavaScript, React, and front-end best practices. Currently, I am advancing in JavaScript concepts and preparing to work with the MERN stack (MongoDB, Express, React, Node.js).
-
----
-
-## 🎓 Certifications
-
+- [WAI0.1x: Introduction to Web Accessibility / edX](https://courses.edx.org/certificates/314b6472dca446f4b3f35d8e7a99fa21)  
 - [Meta Front-End Developer – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/N9ABPGLC812J)  
+- [JavaScript Algorithms and Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/javascript-algorithms-and-data-structures-v8)  
 - [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/responsive-web-design)  
-- [JavaScript Algorithms and Data Structures (ES6+) – freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/javascript-algorithms-and-data-structures-v8)  
-- [Javascript Moderno: La guida pratica da zero a esperti – Udemy](https://www.udemy.com/certificate/UC-a643c20f-bdf9-456b-8f71-6dec2121a448/) 
-
 ---
+## Technical Skills (Stack)
 
-## 🛠️ Technical Skills
+### Core & Frameworks
 
-### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
-![React Redux](https://img.shields.io/badge/React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)  
-![Mac OSX](https://img.shields.io/badge/Mac_OSX-000000?style=for-the-badge&logo=apple&logoColor=white)
+### Ecosystem & Tools
 
-### Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-
-### Development Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
-
-### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
 ---
 
-## 🚧 Skills in Progress
+## Featured Projects
 
-- ♿ Accessibility (WCAG)  
-- 🎨 UX/UI design and responsive layouts  
-- 🌐 SEO best practices and performance optimization  
-- ⚙️ Arduino and IoT hardware-software integration  
+### 1. Personal Portfolio & Blog (mirkopasseri.it)
+[Repository](https://github.com/mirkomkr/portfolio) | [Live Site](https://www.mirkopasseri.it)
+- **Stack:** Astro, Tailwind CSS, Content Collections.
+- **Focus:** Local SEO, Advanced Schema Markup (Person/FAQPage), WCAG Accessibility (Skip link, aria-live), Performance (99+ Lighthouse). Hybrid SPA/MPA architecture.
 
----
+### 2. DTF Italia (Headless E-commerce)
+[Repository](https://github.com/mirkomkr/dtf-italia) | [Live Site](https://www.dtfitalia.it/)
+- **Stack:** Next.js, React, WooCommerce API.
+- **Focus:** Headless e-commerce architecture, Incremental Static Regeneration (ISR) for catalog optimization, Performance, SEO for local shops.
 
-## 🌟 Soft Skills
+### 3. Weather App
+[Repository](https://github.com/mirkomkr/meteo-clima-e-mare) | [Live Site](https://meteo-clima-e-mare.vercel.app/)
+- **Stack:** Vanilla JavaScript, REST API.
+- **Focus:** Parallel asynchronous management, Debounce (500ms), Caching via localStorage, Custom Hooks, Logical component architecture.
 
-- 🤝 Teamwork and effective collaboration  
-- 🧘 Stress management and focus under pressure  
-- 🕒 Planning, time management, and prioritization  
-- 💬 Clear communication adapted to different audiences  
-- 🌱 Curiosity, continuous learning, and adaptability  
-
----
-
-## 💻 Key Projects
-
-### Responsive Landing Page  
-*(Coming soon)*  
-- Mobile-first design using Bootstrap and custom CSS  
-- Smooth animations and cross-browser optimization
-
-### JavaScript Todo List
-[Repository](https://github.com/mirkomkr/todo-app)
-- **Skills:** Core JavaScript fundamentals, DOM manipulation, and event handling.
-- **Features:** State management and local data storage.
-
-### React Todo App
-[Repository](https://github.com/mirkomkr/React-Todo-App)
-- **Technologies:** React, React Hooks (`useState`, `useReducer`, `useEffect`), and Local Storage.
-- **Features:** Task creation, deletion, and modification. Includes input validation, data persistence, and a fully responsive design.
-
-### Shopping Cart  
-*(Coming soon)*  
-- Global state management with React Context API  
-- Reusable components and responsive design
-
-### Browser Extension  
-*(Coming soon)*  
-- Customizable scroll-to-top extension  
-- Performance optimization and DOM manipulation
+### 4. React Todo App
+[Repository](https://github.com/mirkomkr/React-Todo-App) | [Live Site](https://react-todo-app-flax-omega.vercel.app/)
+- **Stack:** React (`useState`, `useReducer`, `useEffect`).
+- **Focus:** State management, data persistence, form validation, responsive design.
 
 ---
 
-## 💡 Personal Interests
+## Beyond Code
 
-- Spending quality time with my family  
-- Educational projects with Arduino and Scratch
-- Video games and creative activities with my son  
-- Traveling and discovering new cultures  
-- Technology innovation and continuous self-improvement
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mirkomkr&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirkomkr&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mirkomkr&layout=compact&theme=radical)](https://github.com/mirkomkr)
+I am convinced that soft skills write the best code:
+- **Stress Management** — Years of experience in high-pressure production environments, translating into clarity during tight deadlines or debugging.
+- **Priority Management** — Accustomed to breaking down complex problems, evaluating the real impact of tasks, and optimizing available time to maximize results.
+- **Research and Autonomy** — Excellent ability to navigate and learn directly from official technical documentation.
+- **Continuous Learning** — When I'm not building something, I'm probably reading documentation that no one else has read to the end.
 
 ---
 
-## 📫 Contact Me
+## Let's Talk?
 
-I am open to opportunities as a Front-End Developer. Reach out to me on:
+Whether you are a recruiter looking for a solid developer, or a local business needing to get online, you can find me here:
 
-- [LinkedIn](https://www.linkedin.com/in/mirko-passeri/)  
-- [X (Twitter)](https://x.com/mirkomkr)  
-- [CodePen](https://codepen.io/mirkomkr)  
-- [Email](mailto:mirkopasseri83@gmail.com)
+- Portfolio: [mirkopasseri.it](https://www.mirkopasseri.it)
+- LinkedIn: [linkedin.com/in/mirko-passeri](https://www.linkedin.com/in/mirko-passeri/)  
+- Email: [contatti@mirkopasseri.it](mailto:contatti@mirkopasseri.it)
