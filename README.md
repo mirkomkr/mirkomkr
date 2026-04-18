@@ -27,7 +27,7 @@ Sono profondamente abituato a muovermi all'interno della documentazione tecnica 
 
 ## Certificazioni
 
-- [Web Accessibility (WAI0.1x) – W3C / edX](https://courses.edx.org/certificates/314b6472dca446f4b3f35d8e7a99fa21)
+- [WAI0.1x: Introduction to Web Accessibility / edX](https://courses.edx.org/certificates/314b6472dca446f4b3f35d8e7a99fa21)
 - [Meta Front-End Developer – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/N9ABPGLC812J)  
 - [JavaScript Algorithms and Data Structures – freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/javascript-algorithms-and-data-structures-v8)  
 - [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/mirkomkr/responsive-web-design)  
