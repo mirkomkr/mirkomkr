@@ -13,15 +13,17 @@
 
 ## Chi sono & Come lavoro
 
-Costruisco siti web e interfacce digitali partendo da una convinzione semplice: **un sito fatto bene deve funzionare per tutti**, indipendentemente dal dispositivo o dal livello di esperienza tecnologica di chi lo usa.
+Sviluppo siti web e interfacce digitali partendo da una convinzione semplice: **un sito fatto bene deve funzionare per tutti**, indipendentemente dal dispositivo o dal livello di esperienza tecnologica di chi lo usa.
 
-Il mio approccio è *problem-first*: conosco le fondamenta e scelgo gli strumenti in base al problema, non il contrario. Dopo un’esperienza pluriennale in settori ad alta pressione che mi ha forgiato nel problem-solving e nella gestione dello stress, oggi disegno e sviluppo soluzioni web con un focus verticale su:
+Il mio approccio è *problem-first*: conosco le fondamenta e scelgo gli strumenti in base al problema, non il contrario.
 
-- **Accessibilità Web (WCAG)** — Sviluppo inclusivo by design
+Dopo un’esperienza pluriennale in settori ad alta pressione dove ho imparato a gestire lo stress e risolvere problemi in modo rapido, oggi disegno e sviluppo soluzioni web con un focus verticale su:
+
+- **Accessibilità Web (WCAG)** — Sviluppo inclusivo
 - **Performance & UX** — Interfacce veloci, moderne e responsive
 - **SEO Tecnica & Locale** — Strutture dati, Schema Markup e ottimizzazione per motori di ricerca
 
-Sono profondamente abituato a muovermi all'interno della documentazione tecnica ufficiale, preferendo lo studio diretto delle fonti alla pura memorizzazione dei framework.
+Sono abituato a muovermi all'interno della documentazione tecnica ufficiale, preferendo lo studio diretto delle fonti alla pura memorizzazione dei framework.
 
 ---
 
@@ -41,12 +43,12 @@ Sono profondamente abituato a muovermi all'interno della documentazione tecnica 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### Ecosistema & Strumenti
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
 
@@ -80,9 +82,9 @@ Sono profondamente abituato a muovermi all'interno della documentazione tecnica 
 
 Sono convinto che le competenze trasversali scrivano il codice migliore:
 - **Gestione dello stress** — Esperienza pluriennale in ambienti produttivi ad alta pressione, che si traduce in lucidità durante le scadenze o il debugging.
+- **Gestione delle priorità** — Abituato a scomporre problemi complessi, valutare l'impatto reale delle task e ottimizzare il tempo a disposizione per massimizzare i risultati.
 - **Ricerca e Autonomia** — Ottima capacità di muovermi e imparare direttamente dalle documentazioni tecniche ufficiali.
-- **Comunicazione chiara** — So spiegare concetti tecnici complessi in modo semplice, essenziale per rapportarsi con clienti o reparti non-IT.
-- **Apprendimento continuo** — Nel tempo libero porto avanti progetti educativi con Arduino insieme a mio figlio.
+- **Apprendimento continuo** — Quando non sto costruendo qualcosa, sto probabilmente leggendo della documentazione che nessuno ha letto fino in fondo.
 
 ---
 
