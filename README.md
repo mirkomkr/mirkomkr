@@ -17,7 +17,7 @@ Sviluppo siti web e interfacce digitali partendo da una convinzione semplice: **
 
 Il mio approccio è *problem-first*: conosco le fondamenta e scelgo gli strumenti in base al problema, non il contrario.
 
-Dopo un’esperienza pluriennale in settori ad alta pressione dove ho imparato a gestire lo stress e risolvere problemi in modo rapido, oggi disegno e sviluppo soluzioni web con un focus verticale su:
+Dopo un’esperienza pluriennale in settori ad alta pressione dove ho imparato a gestire lo stress e risolvere problemi in modo rapido, oggi sviluppo soluzioni web con un focus verticale su:
 
 - **Accessibilità Web (WCAG)** — Sviluppo inclusivo
 - **Performance & UX** — Interfacce veloci, moderne e responsive
@@ -70,7 +70,7 @@ Sono abituato a muovermi all'interno della documentazione tecnica ufficiale, pre
 
 ### 3. Meteo App
 [Repository](https://github.com/mirkomkr/meteo-clima-e-mare) | [Sito Live](https://meteo-clima-e-mare.vercel.app/)
-- **Stack:** JavaScript Vanilla, API REST.
+- **Stack:** React 19, Tailwind CSS, Open-Meteo APIs.
 - **Focus:** Gestione asincrona parallela, Debounce (500ms), Caching via localStorage, Custom Hooks, Architettura a componenti logici.
 
 ### 4. React Todo App
